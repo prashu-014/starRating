@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+:root{
+  --primary-background-color : #1447e6 ;
+  --primary-white-color : #fff;
+}
+
+.background-color{
+  background-color: var(--primary-background-color);
+}
+
+.white-color{
+  background-color: var(--primary-white-color);
+}
